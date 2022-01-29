@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url(../img/1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Montserrat', sans-serif;
+}
+.container{
+	width: 30%;
+	margin: 10% auto;
+}
+.forget-section{
+	padding: 20px;
+	border: solid white;
+	border-radius: 8px;
+}
+.forget-section img{
+	width: 150px;
+	display: block;
+	margin: 0px auto;
+}
+.forget-section h2{
+	margin: 10px;
+	text-align: center;
+	color: white;
+}
+.form-control{
+	width: 97%;
+	margin: 10px auto;
+	padding-left: 5px;
+	height: 35px;
+	border: solid white;
+	border-radius: 8px;
+	background-color: rgba(56,45,71,.7);
+	color: white;
+}
+.submit-btn{
+	display: block;
+	padding: 8px;
+	margin: 0px auto;
+	border: solid white;
+	border-radius: 8px;
+	background-color: rgba(56,45,71,.7);
+	color: white;
+}
